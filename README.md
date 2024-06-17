@@ -1,4 +1,4 @@
-# CHEETAH by BeastArcade
+# CHEETAH by RAF
 <!--- ![CHEETAH-PCB](https://github.com/BeastArcade/CHEETAH-PCB/assets/154543056/13a7204f-3eac-46a2-8cd5-157adc7fb6a6) --->
 ![IMG_4489](https://github.com/BeastArcade/CHEETAH/assets/154543056/9bc6f27e-f071-4bfb-af0f-2f694396aa20)
 
